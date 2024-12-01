@@ -1,13 +1,13 @@
 import React from 'react';
 import {StatusBar} from 'react-native';
-import Navigation from './src/Navigation';
-import {AppProvider} from './src/components/AppContext';
+import Navigation from './source/Navigator';
+import {GlobalProvider} from './source/contexts/GlobalContext';
 
 export default function App() {
   return (
-    <AppProvider>
+    <GlobalProvider>
       <StatusBar />
       <Navigation />
-    </AppProvider>
+    </GlobalProvider>
   );
 }
