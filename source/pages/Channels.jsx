@@ -37,7 +37,7 @@ export default function Channels() {
             <Text style={styles.cardTitle}>IPL</Text>
             <Text style={styles.description}>ROYAL CHALLENGERS BANGALORE</Text>
             <Text style={styles.description}>CHENNAI SUPER KINGS</Text>
-            <Text style={styles.date}>24.06 - 00:45</Text>
+            <Text style={styles.date}>24.02 - 00:45</Text>
           </View>
 
           <View style={styles.circle} />
@@ -48,7 +48,7 @@ export default function Channels() {
             <Text style={styles.cardTitleActive}>UEFA CL</Text>
             <Text style={styles.descriptionActive}>Napoli</Text>
             <Text style={styles.descriptionActive}>Liverpool</Text>
-            <Text style={styles.dateActive}>26.06 - 00:20</Text>
+            <Text style={styles.dateActive}>26.02 - 00:20</Text>
           </View>
 
           <View style={styles.circle} />
@@ -59,7 +59,7 @@ export default function Channels() {
             <Text style={styles.cardTitle}>NHL</Text>
             <Text style={styles.description}>New York Islanders</Text>
             <Text style={styles.description}>New Jersey Devils</Text>
-            <Text style={styles.date}>27.06 - 00:10</Text>
+            <Text style={styles.date}>27.02 - 00:10</Text>
           </View>
 
           <View style={styles.circle} />
@@ -70,7 +70,7 @@ export default function Channels() {
             <Text style={styles.cardTitleActive}>IIHF</Text>
             <Text style={styles.descriptionActive}>Australia</Text>
             <Text style={styles.descriptionActive}>Canada</Text>
-            <Text style={styles.dateActive}>28.06 - 00:45</Text>
+            <Text style={styles.dateActive}>28.02 - 00:45</Text>
           </View>
 
           <View style={styles.circle} />
@@ -81,7 +81,7 @@ export default function Channels() {
             <Text style={styles.cardTitle}>Super League</Text>
             <Text style={styles.description}>MANCHESTER CITY</Text>
             <Text style={styles.description}>MILAN</Text>
-            <Text style={styles.date}>01.07 - 00:50</Text>
+            <Text style={styles.date}>01.03 - 00:50</Text>
           </View>
 
           <View style={styles.circle} />
